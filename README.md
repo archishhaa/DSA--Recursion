@@ -27,6 +27,6 @@ These problems are designed to improve your understanding of recursion and its a
 
 ## Technologies Used
 
-- Programming Language: Choose your preferred language for implementation (e.g., Python, Java, C++)
+- Programming Language: i used -C++
 - Version Control: Git
 
